@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirthdayApp", "BirthdayApp\BirthdayApp.csproj", "{D43DF000-F55C-4E1B-8721-9FAF6A512440}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JQueryApp", "JQueryApp\JQueryApp.csproj", "{49E825E0-8F29-4584-BC79-084336070B51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D43DF000-F55C-4E1B-8721-9FAF6A512440}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D43DF000-F55C-4E1B-8721-9FAF6A512440}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D43DF000-F55C-4E1B-8721-9FAF6A512440}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D43DF000-F55C-4E1B-8721-9FAF6A512440}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49E825E0-8F29-4584-BC79-084336070B51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49E825E0-8F29-4584-BC79-084336070B51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49E825E0-8F29-4584-BC79-084336070B51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49E825E0-8F29-4584-BC79-084336070B51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEA990E0-5B35-4199-B478-CA3758D99089}
+	EndGlobalSection
+EndGlobal
